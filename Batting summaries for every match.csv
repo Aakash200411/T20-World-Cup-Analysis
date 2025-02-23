@@ -1,0 +1,853 @@
+match,teamInnings,battingPos,batsmanName,runs,balls,4s,6s,SR,out/not_out
+India Vs South Africa,India,1,Rohit Sharma,9,5,2,0,180,out
+India Vs South Africa,India,2,Virat Kohli,76,59,6,2,128.81,out
+India Vs South Africa,India,3,Rishabh Pant,0,2,0,0,0,out
+India Vs South Africa,India,4,Suryakumar Yadav,3,4,0,0,75,out
+India Vs South Africa,India,5,Axar Patel,47,31,1,4,151.61,out
+India Vs South Africa,India,6,Shivam Dube,27,16,3,1,168.75,out
+India Vs South Africa,India,7,Hardik Pandya,5,2,1,0,250,not out
+India Vs South Africa,India,8,Ravindra Jadeja,2,2,0,0,100,out
+India Vs South Africa,South Africa,1,Reeza Hendricks,4,5,1,0,80,out
+India Vs South Africa,South Africa,2,Quinton de Kock,39,31,4,1,125.8,out
+India Vs South Africa,South Africa,3,Aiden Markram,4,5,1,0,80,out
+India Vs South Africa,South Africa,4,Tristan Stubbs,31,21,3,1,147.61,out
+India Vs South Africa,South Africa,5,Heinrich Klaasen,52,27,2,5,192.59,out
+India Vs South Africa,South Africa,6,David Miller,21,17,1,1,123.52,out
+India Vs South Africa,South Africa,7,Marco Jansen,2,4,0,0,50,out
+India Vs South Africa,South Africa,8,Keshav Maharaj,2,7,0,0,28.57,not out
+India Vs South Africa,South Africa,9,Kagiso Rabada,4,3,1,0,133.33,out
+India Vs South Africa,South Africa,10,Anrich Nortje,1,1,0,0,100,not out
+India Vs England,India,1,Rohit Sharma,57,39,6,2,146.15,out
+India Vs England,India,2,Virat Kohli,9,9,0,1,100,out
+India Vs England,India,3,Rishabh Pant,4,6,0,0,66.66,out
+India Vs England,India,4,Suryakumar Yadav,47,36,4,2,130.55,out
+India Vs England,India,5,Hardik Pandya,23,13,1,2,176.92,out
+India Vs England,India,6,Ravindra Jadeja,17,9,2,0,188.88,not out
+India Vs England,India,7,Shivam Dube,0,1,0,0,0,out
+India Vs England,India,8,Axar Patel,10,6,0,1,166.66,out
+India Vs England,India,9,Arshdeep Singh,1,1,0,0,100,not out
+India Vs England,England,1,Phil Salt,5,8,0,0,62.5,out
+India Vs England,England,2,Jos Buttler,23,15,4,0,153.33,out
+India Vs England,England,3,Moeen Ali,8,10,0,0,80,out
+India Vs England,England,4,Jonny Bairstow,0,3,0,0,0,out
+India Vs England,England,5,Harry Brook,25,19,3,0,131.57,out
+India Vs England,England,6,Sam Curran,2,4,0,0,50,out
+India Vs England,England,7,Liam Livingstone,11,16,0,0,68.75,out
+India Vs England,England,8,Chris Jordan,1,5,0,0,20,out
+India Vs England,England,9,Jofra Archer,21,15,1,2,140,out
+India Vs England,England,10,Adil Rashid,2,2,0,0,100,out
+India Vs England,England,11,Reece Topley,3,3,0,0,100,not out
+Afghanistan Vs South Africa,Afghanistan,1,Rahmanullah Gurbaz,0,3,0,0,0,out
+Afghanistan Vs South Africa,Afghanistan,2,Ibrahim Zadran,2,5,0,0,40,out
+Afghanistan Vs South Africa,Afghanistan,3,Gulbadin Naib,9,8,2,0,112.5,out
+Afghanistan Vs South Africa,Afghanistan,4,Azmatullah Omarzai,10,12,2,0,83.33,out
+Afghanistan Vs South Africa,Afghanistan,5,Mohammad Nabi,0,3,0,0,0,out
+Afghanistan Vs South Africa,Afghanistan,6,Nangeyalia Kharote,2,7,0,0,28.57,out
+Afghanistan Vs South Africa,Afghanistan,7,Karim Janat,8,13,1,0,61.53,out
+Afghanistan Vs South Africa,Afghanistan,8,Rashid Khan,8,8,2,0,100,out
+Afghanistan Vs South Africa,Afghanistan,9,Noor Ahmad,0,2,0,0,0,out
+Afghanistan Vs South Africa,Afghanistan,10,Naveen-ul-Haq,2,8,0,0,25,out
+Afghanistan Vs South Africa,Afghanistan,11,Fazalhaq Farooqi,2,2,0,0,100,not out
+Afghanistan Vs South Africa,South Africa,1,Quinton de Kock,5,8,1,0,62.5,out
+Afghanistan Vs South Africa,South Africa,2,Reeza Hendricks,29,25,3,1,116,not out
+Afghanistan Vs South Africa,South Africa,3,Aiden Markram,23,21,4,0,109.52,not out
+Afghanistan Vs Bangladesh,Afghanistan,1,Rahmanullah Gurbaz,43,55,3,1,78.18,out
+Afghanistan Vs Bangladesh,Afghanistan,2,Ibrahim Zadran,18,29,1,0,62.06,out
+Afghanistan Vs Bangladesh,Afghanistan,3,Azmatullah Omarzai,10,12,0,0,83.33,out
+Afghanistan Vs Bangladesh,Afghanistan,4,Gulbadin Naib,4,3,1,0,133.33,out
+Afghanistan Vs Bangladesh,Afghanistan,5,Mohammad Nabi,1,5,0,0,20,out
+Afghanistan Vs Bangladesh,Afghanistan,6,Karim Janat,7,6,1,0,116.66,not out
+Afghanistan Vs Bangladesh,Afghanistan,7,Rashid Khan,19,10,0,3,190,not out
+Afghanistan Vs Bangladesh,Bangladesh,1,Litton Das,54,49,5,1,110.2,not out
+Afghanistan Vs Bangladesh,Bangladesh,2,Tanzid Hasan,0,3,0,0,0,out
+Afghanistan Vs Bangladesh,Bangladesh,3,Najmul Hossain Shanto,5,5,1,0,100,out
+Afghanistan Vs Bangladesh,Bangladesh,4,Shakib Al Hasan,0,1,0,0,0,out
+Afghanistan Vs Bangladesh,Bangladesh,5,Soumya Sarkar,10,10,1,0,100,out
+Afghanistan Vs Bangladesh,Bangladesh,6,Towhid Hridoy,14,9,2,0,155.55,out
+Afghanistan Vs Bangladesh,Bangladesh,7,Mahmudullah,6,9,1,0,66.66,out
+Afghanistan Vs Bangladesh,Bangladesh,8,Rishad Hossain,0,1,0,0,0,out
+Afghanistan Vs Bangladesh,Bangladesh,9,Tanzim Hasan Sakib,3,10,0,0,30,out
+Afghanistan Vs Bangladesh,Bangladesh,10,Taskin Ahmed,2,9,0,0,22.22,out
+Afghanistan Vs Bangladesh,Bangladesh,11,Mustafizur Rahman,0,1,0,0,0,out
+India Vs Australia,India,1,Rohit Sharma,92,41,7,8,224.39,out
+India Vs Australia,India,2,Virat Kohli,0,5,0,0,0,out
+India Vs Australia,India,3,Rishabh Pant,15,14,1,1,107.14,out
+India Vs Australia,India,4,Suryakumar Yadav,31,16,3,2,193.75,out
+India Vs Australia,India,5,Shivam Dube,28,22,2,1,127.27,out
+India Vs Australia,India,6,Hardik Pandya,27,17,1,2,158.82,not out
+India Vs Australia,India,7,Ravindra Jadeja,9,5,0,1,180,not out
+India Vs Australia,Australia,1,David Warner,6,6,1,0,100,out
+India Vs Australia,Australia,2,Travis Head,76,43,9,4,176.74,out
+India Vs Australia,Australia,3,Mitchell Marsh,37,28,3,2,132.14,out
+India Vs Australia,Australia,4,Glenn Maxwell,20,12,2,1,166.66,out
+India Vs Australia,Australia,5,Marcus Stoinis,2,4,0,0,50,out
+India Vs Australia,Australia,6,Tim David,15,11,1,1,136.36,out
+India Vs Australia,Australia,7,Matthew Wade,1,2,0,0,50,out
+India Vs Australia,Australia,8,Pat Cummins,11,7,0,1,157.14,not out
+India Vs Australia,Australia,9,Mitchell Starc,4,7,0,0,57.14,not out
+West Indies Vs South Africa,West Indies,1,Kyle Mayers,35,34,3,2,102.94,out
+West Indies Vs South Africa,West Indies,2,Shai Hope,0,1,0,0,0,out
+West Indies Vs South Africa,West Indies,3,Nicholas Pooran,1,3,0,0,33.33,out
+West Indies Vs South Africa,West Indies,4,Roston Chase,52,42,3,2,123.8,out
+West Indies Vs South Africa,West Indies,5,Rovman Powell,1,2,0,0,50,out
+West Indies Vs South Africa,West Indies,6,Sherfane Rutherford,0,4,0,0,0,out
+West Indies Vs South Africa,West Indies,7,Andre Russell,15,9,0,2,166.66,out
+West Indies Vs South Africa,West Indies,8,Akeal Hosein,6,11,1,0,54.54,out
+West Indies Vs South Africa,West Indies,9,Alzarri Joseph,11,7,0,1,157.14,not out
+West Indies Vs South Africa,West Indies,10,Gudakesh Motie,4,7,1,0,57.14,not out
+West Indies Vs South Africa,South Africa,1,Quinton de Kock,12,7,3,0,171.42,out
+West Indies Vs South Africa,South Africa,2,Reeza Hendricks,0,1,0,0,0,out
+West Indies Vs South Africa,South Africa,3,Aiden Markram,18,15,2,0,120,out
+West Indies Vs South Africa,South Africa,4,Tristan Stubbs,29,27,4,0,107.4,out
+West Indies Vs South Africa,South Africa,5,Heinrich Klaasen,22,10,3,1,220,out
+West Indies Vs South Africa,South Africa,6,David Miller,4,14,0,0,28.57,out
+West Indies Vs South Africa,South Africa,7,Marco Jansen,21,14,1,1,150,not out
+West Indies Vs South Africa,South Africa,8,Keshav Maharaj,2,6,0,0,33.33,out
+West Indies Vs South Africa,South Africa,9,Kagiso Rabada,5,3,1,0,166.66,not out
+United States of America Vs England,United States of America,1,Steven Taylor,12,13,2,0,92.3,out
+United States of America Vs England,United States of America,2,Andries Gous,8,5,0,1,160,out
+United States of America Vs England,United States of America,3,Nitish Kumar,30,24,1,2,125,out
+United States of America Vs England,United States of America,4,Aaron Jones,10,16,2,0,62.5,out
+United States of America Vs England,United States of America,5,Corey Anderson,29,28,0,1,103.57,out
+United States of America Vs England,United States of America,6,Milind Kumar,4,6,0,0,66.66,out
+United States of America Vs England,United States of America,7,Harmeet Singh,21,17,2,1,123.52,out
+United States of America Vs England,United States of America,8,Shadley van Schalkwyk,0,0,0,0,,not out
+United States of America Vs England,United States of America,9,Ali Khan,0,2,0,0,0,out
+United States of America Vs England,United States of America,10,Nosthush Kenjige,0,1,0,0,0,out
+United States of America Vs England,United States of America,11,Saurabh Netravalkar,0,1,0,0,0,out
+United States of America Vs England,England,1,Phil Salt,25,21,2,0,119.04,not out
+United States of America Vs England,England,2,Jos Buttler,83,38,6,7,218.42,not out
+Afghanistan Vs Australia,Afghanistan,1,Rahmanullah Gurbaz,60,49,4,4,122.44,out
+Afghanistan Vs Australia,Afghanistan,2,Ibrahim Zadran,51,48,6,0,106.25,out
+Afghanistan Vs Australia,Afghanistan,3,Azmatullah Omarzai,2,3,0,0,66.66,out
+Afghanistan Vs Australia,Afghanistan,4,Karim Janat,13,9,0,1,144.44,out
+Afghanistan Vs Australia,Afghanistan,5,Rashid Khan,2,5,0,0,40,out
+Afghanistan Vs Australia,Afghanistan,6,Mohammad Nabi,10,4,2,0,250,not out
+Afghanistan Vs Australia,Afghanistan,7,Gulbadin Naib,0,1,0,0,0,out
+Afghanistan Vs Australia,Afghanistan,8,Nangeyalia Kharote,1,1,0,0,100,not out
+Afghanistan Vs Australia,Australia,1,Travis Head,0,3,0,0,0,out
+Afghanistan Vs Australia,Australia,2,David Warner,3,8,0,0,37.5,out
+Afghanistan Vs Australia,Australia,3,Mitchell Marsh,12,9,2,0,133.33,out
+Afghanistan Vs Australia,Australia,4,Glenn Maxwell,59,41,6,3,143.9,out
+Afghanistan Vs Australia,Australia,5,Marcus Stoinis,11,17,1,0,64.7,out
+Afghanistan Vs Australia,Australia,6,Tim David,2,4,0,0,50,out
+Afghanistan Vs Australia,Australia,7,Matthew Wade,5,7,0,0,71.42,out
+Afghanistan Vs Australia,Australia,8,Pat Cummins,3,9,0,0,33.33,out
+Afghanistan Vs Australia,Australia,9,Ashton Agar,2,5,0,0,40,out
+Afghanistan Vs Australia,Australia,10,Adam Zampa,9,7,1,0,128.57,out
+Afghanistan Vs Australia,Australia,11,Josh Hazlewood,5,7,0,0,71.42,not out
+India Vs Bangladesh,India,1,Rohit Sharma,23,11,3,1,209.09,out
+India Vs Bangladesh,India,2,Virat Kohli,37,28,1,3,132.14,out
+India Vs Bangladesh,India,3,Rishabh Pant,36,24,4,2,150,out
+India Vs Bangladesh,India,4,Suryakumar Yadav,6,2,0,1,300,out
+India Vs Bangladesh,India,5,Shivam Dube,34,24,0,3,141.66,out
+India Vs Bangladesh,India,6,Hardik Pandya,50,27,4,3,185.18,not out
+India Vs Bangladesh,India,7,Axar Patel,3,5,0,0,60,not out
+India Vs Bangladesh,Bangladesh,1,Litton Das,13,10,1,1,130,out
+India Vs Bangladesh,Bangladesh,2,Tanzid Hasan,29,31,4,0,93.54,out
+India Vs Bangladesh,Bangladesh,3,Najmul Hossain Shanto,40,32,1,3,125,out
+India Vs Bangladesh,Bangladesh,4,Towhid Hridoy,4,6,0,0,66.66,out
+India Vs Bangladesh,Bangladesh,5,Shakib Al Hasan,11,7,1,1,157.14,out
+India Vs Bangladesh,Bangladesh,6,Mahmudullah,13,15,1,0,86.66,out
+India Vs Bangladesh,Bangladesh,7,Jaker Ali,1,4,0,0,25,out
+India Vs Bangladesh,Bangladesh,8,Rishad Hossain,24,10,1,3,240,out
+India Vs Bangladesh,Bangladesh,9,Mahedi Hasan,5,4,1,0,125,not out
+India Vs Bangladesh,Bangladesh,10,Tanzim Hasan Sakib,1,1,0,0,100,not out
+United States of America Vs West Indies,United States of America,1,Steven Taylor,2,7,0,0,28.57,out
+United States of America Vs West Indies,United States of America,2,Andries Gous,29,16,3,1,181.25,out
+United States of America Vs West Indies,United States of America,3,Nitish Kumar,20,19,2,0,105.26,out
+United States of America Vs West Indies,United States of America,4,Aaron Jones,11,11,0,1,100,out
+United States of America Vs West Indies,United States of America,5,Corey Anderson,7,15,0,0,46.66,out
+United States of America Vs West Indies,United States of America,6,Milind Kumar,19,21,1,0,90.47,out
+United States of America Vs West Indies,United States of America,7,Harmeet Singh,0,1,0,0,0,out
+United States of America Vs West Indies,United States of America,8,Shadley van Schalkwyk,18,17,3,0,105.88,out
+United States of America Vs West Indies,United States of America,9,Nosthush Kenjige,1,3,0,0,33.33,out
+United States of America Vs West Indies,United States of America,10,Ali Khan,14,6,1,1,233.33,not out
+United States of America Vs West Indies,United States of America,11,Saurabh Netravalkar,0,4,0,0,0,out
+United States of America Vs West Indies,West Indies,1,Shai Hope,82,39,4,8,210.25,not out
+United States of America Vs West Indies,West Indies,2,Johnson Charles,15,14,2,0,107.14,out
+United States of America Vs West Indies,West Indies,3,Nicholas Pooran,27,12,1,3,225,not out
+South Africa Vs England,South Africa,1,Reeza Hendricks,19,25,1,0,76,out
+South Africa Vs England,South Africa,2,Quinton de Kock,65,38,4,4,171.05,out
+South Africa Vs England,South Africa,3,Heinrich Klaasen,8,13,1,0,61.53,out
+South Africa Vs England,South Africa,4,David Miller,43,28,4,2,153.57,out
+South Africa Vs England,South Africa,5,Aiden Markram,1,2,0,0,50,out
+South Africa Vs England,South Africa,6,Tristan Stubbs,12,11,1,0,109.09,not out
+South Africa Vs England,South Africa,7,Marco Jansen,0,1,0,0,0,out
+South Africa Vs England,South Africa,8,Keshav Maharaj,5,2,1,0,250,not out
+South Africa Vs England,England,1,Phil Salt,11,8,1,1,137.5,out
+South Africa Vs England,England,2,Jos Buttler,17,20,1,0,85,out
+South Africa Vs England,England,3,Jonny Bairstow,16,20,1,0,80,out
+South Africa Vs England,England,4,Moeen Ali,9,10,0,0,90,out
+South Africa Vs England,England,5,Harry Brook,53,37,7,0,143.24,out
+South Africa Vs England,England,6,Liam Livingstone,33,17,3,2,194.11,out
+South Africa Vs England,England,7,Sam Curran,10,7,1,0,142.85,not out
+South Africa Vs England,England,8,Jofra Archer,1,2,0,0,50,not out
+Bangladesh Vs Australia,Bangladesh,1,Tanzid Hasan,0,3,0,0,0,out
+Bangladesh Vs Australia,Bangladesh,2,Litton Das,16,25,2,0,64,out
+Bangladesh Vs Australia,Bangladesh,3,Najmul Hossain Shanto,41,36,5,1,113.88,out
+Bangladesh Vs Australia,Bangladesh,4,Rishad Hossain,2,4,0,0,50,out
+Bangladesh Vs Australia,Bangladesh,5,Towhid Hridoy,40,28,2,2,142.85,out
+Bangladesh Vs Australia,Bangladesh,6,Shakib Al Hasan,8,10,0,0,80,out
+Bangladesh Vs Australia,Bangladesh,7,Mahmudullah,2,3,0,0,66.66,out
+Bangladesh Vs Australia,Bangladesh,8,Mahedi Hasan,0,1,0,0,0,out
+Bangladesh Vs Australia,Bangladesh,9,Taskin Ahmed,13,7,1,0,185.71,not out
+Bangladesh Vs Australia,Bangladesh,10,Tanzim Hasan Sakib,4,3,0,0,133.33,not out
+Bangladesh Vs Australia,Australia,1,David Warner,53,35,5,3,151.42,not out
+Bangladesh Vs Australia,Australia,2,Travis Head,31,21,3,2,147.61,out
+Bangladesh Vs Australia,Australia,3,Mitchell Marsh,1,6,0,0,16.66,out
+Bangladesh Vs Australia,Australia,4,Glenn Maxwell,14,6,1,1,233.33,not out
+India Vs Afghanistan,India,1,Rohit Sharma,8,13,1,0,61.53,out
+India Vs Afghanistan,India,2,Virat Kohli,24,24,0,1,100,out
+India Vs Afghanistan,India,3,Rishabh Pant,20,11,4,0,181.81,out
+India Vs Afghanistan,India,4,Suryakumar Yadav,53,28,5,3,189.28,out
+India Vs Afghanistan,India,5,Shivam Dube,10,7,0,1,142.85,out
+India Vs Afghanistan,India,6,Hardik Pandya,32,24,3,2,133.33,out
+India Vs Afghanistan,India,7,Ravindra Jadeja,7,5,1,0,140,out
+India Vs Afghanistan,India,8,Axar Patel,12,6,2,0,200,out
+India Vs Afghanistan,India,9,Arshdeep Singh,2,2,0,0,100,not out
+India Vs Afghanistan,Afghanistan,1,Rahmanullah Gurbaz,11,8,1,1,137.5,out
+India Vs Afghanistan,Afghanistan,2,Hazratullah Zazai,2,4,0,0,50,out
+India Vs Afghanistan,Afghanistan,3,Ibrahim Zadran,8,11,1,0,72.72,out
+India Vs Afghanistan,Afghanistan,4,Gulbadin Naib,17,21,1,1,80.95,out
+India Vs Afghanistan,Afghanistan,5,Azmatullah Omarzai,26,20,2,1,130,out
+India Vs Afghanistan,Afghanistan,6,Najibullah Zadran,19,17,0,2,111.76,out
+India Vs Afghanistan,Afghanistan,7,Mohammad Nabi,14,14,0,1,100,out
+India Vs Afghanistan,Afghanistan,8,Rashid Khan,2,6,0,0,33.33,out
+India Vs Afghanistan,Afghanistan,9,Noor Ahmad,12,18,1,1,66.66,out
+India Vs Afghanistan,Afghanistan,10,Naveen-ul-Haq,0,1,0,0,0,out
+India Vs Afghanistan,Afghanistan,11,Fazalhaq Farooqi,4,1,1,0,400,not out
+West Indies Vs England,West Indies,1,Brandon King,23,13,3,1,176.92,not out
+West Indies Vs England,West Indies,2,Johnson Charles,38,34,4,1,111.76,out
+West Indies Vs England,West Indies,3,Nicholas Pooran,36,32,4,1,112.5,out
+West Indies Vs England,West Indies,4,Rovman Powell,36,17,0,5,211.76,out
+West Indies Vs England,West Indies,5,Andre Russell,1,2,0,0,50,out
+West Indies Vs England,West Indies,6,Sherfane Rutherford,28,15,1,2,186.66,not out
+West Indies Vs England,West Indies,7,Romario Shepherd,5,7,1,0,71.42,not out
+West Indies Vs England,England,1,Phil Salt,87,47,7,5,185.1,not out
+West Indies Vs England,England,2,Jos Buttler,25,22,2,0,113.63,out
+West Indies Vs England,England,3,Moeen Ali,13,10,2,0,130,out
+West Indies Vs England,England,4,Jonny Bairstow,48,26,5,2,184.61,not out
+South Africa Vs United States of America,South Africa,1,Quinton de Kock,74,40,7,5,185,out
+South Africa Vs United States of America,South Africa,2,Reeza Hendricks,11,11,0,1,100,out
+South Africa Vs United States of America,South Africa,3,Aiden Markram,46,32,4,1,143.75,out
+South Africa Vs United States of America,South Africa,4,David Miller,0,1,0,0,0,out
+South Africa Vs United States of America,South Africa,5,Heinrich Klaasen,36,22,0,3,163.63,not out
+South Africa Vs United States of America,South Africa,6,Tristan Stubbs,20,16,2,0,125,not out
+South Africa Vs United States of America,United States of America,1,Steven Taylor,24,14,4,1,171.42,out
+South Africa Vs United States of America,United States of America,2,Andries Gous,80,47,5,5,170.21,not out
+South Africa Vs United States of America,United States of America,3,Nitish Kumar,8,6,0,1,133.33,out
+South Africa Vs United States of America,United States of America,4,Aaron Jones,0,5,0,0,0,out
+South Africa Vs United States of America,United States of America,5,Corey Anderson,12,12,0,1,100,out
+South Africa Vs United States of America,United States of America,6,Shayan Jahangir,3,9,0,0,33.33,out
+South Africa Vs United States of America,United States of America,7,Harmeet Singh,38,22,2,3,172.72,out
+South Africa Vs United States of America,United States of America,8,Jasdeep Singh,2,6,0,0,33.33,not out
+West Indies Vs Afghanistan,West Indies,1,Brandon King,7,6,1,0,116.66,out
+West Indies Vs Afghanistan,West Indies,2,Johnson Charles,43,27,8,0,159.25,out
+West Indies Vs Afghanistan,West Indies,3,Nicholas Pooran,98,53,6,8,184.9,out
+West Indies Vs Afghanistan,West Indies,4,Shai Hope,25,17,0,2,147.05,out
+West Indies Vs Afghanistan,West Indies,5,Rovman Powell,26,15,1,2,173.33,out
+West Indies Vs Afghanistan,West Indies,6,Andre Russell,3,3,0,0,100,not out
+West Indies Vs Afghanistan,West Indies,7,Sherfane Rutherford,1,1,0,0,100,not out
+West Indies Vs Afghanistan,Afghanistan,1,Rahmanullah Gurbaz,0,3,0,0,0,out
+West Indies Vs Afghanistan,Afghanistan,2,Ibrahim Zadran,38,28,5,1,135.71,out
+West Indies Vs Afghanistan,Afghanistan,3,Gulbadin Naib,7,10,1,0,70,out
+West Indies Vs Afghanistan,Afghanistan,4,Azmatullah Omarzai,23,19,1,1,121.05,out
+West Indies Vs Afghanistan,Afghanistan,5,Najibullah Zadran,0,2,0,0,0,out
+West Indies Vs Afghanistan,Afghanistan,6,Mohammad Nabi,1,4,0,0,25,out
+West Indies Vs Afghanistan,Afghanistan,7,Karim Janat,14,9,0,1,155.55,out
+West Indies Vs Afghanistan,Afghanistan,8,Rashid Khan,18,11,2,1,163.63,out
+West Indies Vs Afghanistan,Afghanistan,9,Noor Ahmad,2,4,0,0,50,out
+West Indies Vs Afghanistan,Afghanistan,10,Naveen-ul-Haq,4,6,1,0,66.66,out
+West Indies Vs Afghanistan,Afghanistan,11,Fazalhaq Farooqi,0,2,0,0,0,not out
+Papua New Guinea Vs New Zealand,Papua New Guinea,1,Tony Ura,1,2,0,0,50,out
+Papua New Guinea Vs New Zealand,Papua New Guinea,2,Assad Vala,6,16,1,0,37.5,out
+Papua New Guinea Vs New Zealand,Papua New Guinea,3,Charles Amini,17,25,2,0,68,out
+Papua New Guinea Vs New Zealand,Papua New Guinea,4,Sese Bau,12,27,1,0,44.44,out
+Papua New Guinea Vs New Zealand,Papua New Guinea,5,Hiri Hiri,7,11,1,0,63.63,out
+Papua New Guinea Vs New Zealand,Papua New Guinea,6,Chad Soper,1,6,0,0,16.66,out
+Papua New Guinea Vs New Zealand,Papua New Guinea,7,Kiplin Doriga,5,7,1,0,71.42,out
+Papua New Guinea Vs New Zealand,Papua New Guinea,8,Norman Vanua,14,13,1,1,107.69,out
+Papua New Guinea Vs New Zealand,Papua New Guinea,9,Alei Nao,3,7,0,0,42.85,out
+Papua New Guinea Vs New Zealand,Papua New Guinea,10,Kabua Morea,0,3,0,0,0,out
+Papua New Guinea Vs New Zealand,Papua New Guinea,11,Semo Kamea,1,1,0,0,100,not out
+Papua New Guinea Vs New Zealand,New Zealand,1,Finn Allen,0,2,0,0,0,out
+Papua New Guinea Vs New Zealand,New Zealand,2,Devon Conway,35,32,2,3,109.37,out
+Papua New Guinea Vs New Zealand,New Zealand,3,Rachin Ravindra,6,11,0,0,54.54,out
+Papua New Guinea Vs New Zealand,New Zealand,4,Kane Williamson,18,17,2,0,105.88,not out
+Papua New Guinea Vs New Zealand,New Zealand,5,Daryl Mitchell,19,12,3,0,158.33,not out
+Sri Lanka Vs Netherlands,Sri Lanka,1,Pathum Nissanka,0,2,0,0,0,out
+Sri Lanka Vs Netherlands,Sri Lanka,2,Kusal Mendis,46,29,5,0,158.62,out
+Sri Lanka Vs Netherlands,Sri Lanka,3,Kamindu Mendis,17,20,1,1,85,out
+Sri Lanka Vs Netherlands,Sri Lanka,4,Dhananjaya de Silva,34,26,3,1,130.76,out
+Sri Lanka Vs Netherlands,Sri Lanka,5,Charith Asalanka,46,21,1,5,219.04,out
+Sri Lanka Vs Netherlands,Sri Lanka,6,Angelo Mathews,30,15,1,2,200,not out
+Sri Lanka Vs Netherlands,Sri Lanka,7,Dasun Shanaka,0,1,0,0,0,out
+Sri Lanka Vs Netherlands,Sri Lanka,8,Wanindu Hasaranga,20,6,1,2,333.33,not out
+Sri Lanka Vs Netherlands,Netherlands,1,Michael Levitt,31,23,2,3,134.78,out
+Sri Lanka Vs Netherlands,Netherlands,2,Max O'Dowd,11,8,0,1,137.5,out
+Sri Lanka Vs Netherlands,Netherlands,3,Vikramjit Singh,7,10,0,0,70,out
+Sri Lanka Vs Netherlands,Netherlands,4,Sybrand Engelbrecht,11,9,0,1,122.22,out
+Sri Lanka Vs Netherlands,Netherlands,5,Scott Edwards,31,24,2,1,129.16,out
+Sri Lanka Vs Netherlands,Netherlands,6,Bas de Leede,3,5,0,0,60,out
+Sri Lanka Vs Netherlands,Netherlands,7,Logan van Beek,0,1,0,0,0,out
+Sri Lanka Vs Netherlands,Netherlands,8,Tim Pringle,2,4,0,0,50,out
+Sri Lanka Vs Netherlands,Netherlands,9,Aryan Dutt,10,8,1,0,125,out
+Sri Lanka Vs Netherlands,Netherlands,10,Paul van Meekeren,3,8,0,0,37.5,out
+Sri Lanka Vs Netherlands,Netherlands,11,Vivian Kingma,1,1,0,0,100,not out
+Bangladesh Vs Nepal,Bangladesh,1,Tanzid Hasan,0,1,0,0,0,out
+Bangladesh Vs Nepal,Bangladesh,2,Litton Das,10,12,1,0,83.33,out
+Bangladesh Vs Nepal,Bangladesh,3,Najmul Hossain Shanto,4,5,0,0,80,out
+Bangladesh Vs Nepal,Bangladesh,4,Shakib Al Hasan,17,22,2,0,77.27,out
+Bangladesh Vs Nepal,Bangladesh,5,Towhid Hridoy,9,7,2,0,128.57,out
+Bangladesh Vs Nepal,Bangladesh,6,Mahmudullah,13,13,2,0,100,out
+Bangladesh Vs Nepal,Bangladesh,7,Jaker Ali,12,26,0,0,46.15,out
+Bangladesh Vs Nepal,Bangladesh,8,Tanzim Hasan Sakib,3,5,0,0,60,out
+Bangladesh Vs Nepal,Bangladesh,9,Rishad Hossain,13,7,1,1,185.71,out
+Bangladesh Vs Nepal,Bangladesh,10,Taskin Ahmed,12,15,2,0,80,not out
+Bangladesh Vs Nepal,Bangladesh,11,Mustafizur Rahman,3,4,0,0,75,out
+Bangladesh Vs Nepal,Nepal,1,Kushal Bhurtel,4,8,1,0,50,out
+Bangladesh Vs Nepal,Nepal,2,Aasif Sheikh,17,14,4,0,121.42,out
+Bangladesh Vs Nepal,Nepal,3,Anil Sah,0,2,0,0,0,out
+Bangladesh Vs Nepal,Nepal,4,Rohit Paudel,1,6,0,0,16.66,out
+Bangladesh Vs Nepal,Nepal,5,Sundeep Jora,1,8,0,0,12.5,out
+Bangladesh Vs Nepal,Nepal,6,Kushal Malla,27,40,1,1,67.5,out
+Bangladesh Vs Nepal,Nepal,7,Dipendra Singh Airee,25,31,2,1,80.64,out
+Bangladesh Vs Nepal,Nepal,8,Gulsan Jha,0,4,0,0,0,out
+Bangladesh Vs Nepal,Nepal,9,Sompal Kami,0,2,0,0,0,out
+Bangladesh Vs Nepal,Nepal,10,Sandeep Lamichhane,0,0,0,0,,not out
+Bangladesh Vs Nepal,Nepal,11,Abinash Bohara,0,1,0,0,0,out
+Ireland Vs Pakistan,Ireland,1,Andy Balbirnie,0,3,0,0,0,out
+Ireland Vs Pakistan,Ireland,2,Paul Stirling,1,2,0,0,50,out
+Ireland Vs Pakistan,Ireland,3,Lorcan Tucker,2,2,0,0,100,out
+Ireland Vs Pakistan,Ireland,4,Harry Tector,0,6,0,0,0,out
+Ireland Vs Pakistan,Ireland,5,Curtis Campher,7,14,1,0,50,out
+Ireland Vs Pakistan,Ireland,6,George Dockrell,11,10,2,0,110,out
+Ireland Vs Pakistan,Ireland,7,Gareth Delany,31,19,1,3,163.15,out
+Ireland Vs Pakistan,Ireland,8,Mark Adair,15,19,2,0,78.94,out
+Ireland Vs Pakistan,Ireland,9,Barry McCarthy,2,7,0,0,28.57,out
+Ireland Vs Pakistan,Ireland,10,Josh Little,22,18,2,1,122.22,not out
+Ireland Vs Pakistan,Ireland,11,Ben White,5,20,0,0,25,not out
+Ireland Vs Pakistan,Pakistan,1,Mohammad Rizwan,17,16,2,0,106.25,out
+Ireland Vs Pakistan,Pakistan,2,Saim Ayub,17,17,2,1,100,out
+Ireland Vs Pakistan,Pakistan,3,Babar Azam,32,34,2,0,94.11,not out
+Ireland Vs Pakistan,Pakistan,4,Fakhar Zaman,5,9,0,0,55.55,out
+Ireland Vs Pakistan,Pakistan,5,Usman Khan,2,3,0,0,66.66,out
+Ireland Vs Pakistan,Pakistan,6,Shadab Khan,0,2,0,0,0,out
+Ireland Vs Pakistan,Pakistan,7,Imad Wasim,4,6,1,0,66.66,out
+Ireland Vs Pakistan,Pakistan,8,Abbas Afridi,17,21,1,1,80.95,out
+Ireland Vs Pakistan,Pakistan,9,Shaheen Shah Afridi,13,5,0,2,260,not out
+Scotland Vs Australia,Scotland,1,George Munsey,35,23,2,3,152.17,out
+Scotland Vs Australia,Scotland,2,Michael Jones,2,3,0,0,66.66,out
+Scotland Vs Australia,Scotland,3,Brandon McMullen,60,34,2,6,176.47,out
+Scotland Vs Australia,Scotland,4,Richie Berrington,42,31,1,2,135.48,not out
+Scotland Vs Australia,Scotland,5,Matthew Cross,18,11,1,1,163.63,out
+Scotland Vs Australia,Scotland,6,Michael Leask,5,8,0,0,62.5,out
+Scotland Vs Australia,Scotland,7,Chris Greaves,9,10,0,0,90,not out
+Scotland Vs Australia,Australia,1,Travis Head,68,49,5,4,138.77,out
+Scotland Vs Australia,Australia,2,David Warner,1,4,0,0,25,out
+Scotland Vs Australia,Australia,3,Mitchell Marsh,8,9,1,0,88.88,out
+Scotland Vs Australia,Australia,4,Glenn Maxwell,11,8,0,1,137.5,out
+Scotland Vs Australia,Australia,5,Marcus Stoinis,59,29,9,2,203.44,out
+Scotland Vs Australia,Australia,6,Tim David,24,14,2,1,171.42,not out
+Scotland Vs Australia,Australia,7,Matthew Wade,4,5,0,0,80,not out
+England Vs Namibia,England,1,Phil Salt,11,8,2,0,137.5,out
+England Vs Namibia,England,2,Jos Buttler,0,4,0,0,0,out
+England Vs Namibia,England,3,Jonny Bairstow,31,18,3,2,172.22,out
+England Vs Namibia,England,4,Harry Brook,47,20,4,2,235,not out
+England Vs Namibia,England,5,Moeen Ali,16,6,0,2,266.66,out
+England Vs Namibia,England,6,Liam Livingstone,13,4,0,2,325,out
+England Vs Namibia,Namibia,1,Michael van Lingen,33,29,1,3,113.79,out
+England Vs Namibia,Namibia,2,Nikolaas Davin,18,16,1,1,112.5,out
+England Vs Namibia,Namibia,3,David Wiese,27,12,2,2,225,out
+England Vs Namibia,Namibia,4,Gerhard Erasmus,1,3,0,0,33.33,not out
+England Vs Namibia,Namibia,5,JJ Smit,0,1,0,0,0,not out
+Uganda Vs New Zealand,Uganda,1,Ronak Patel,2,20,0,0,10,out
+Uganda Vs New Zealand,Uganda,2,Simon Ssesazi,0,1,0,0,0,out
+Uganda Vs New Zealand,Uganda,3,Robinson Obuya,0,1,0,0,0,out
+Uganda Vs New Zealand,Uganda,4,Alpesh Ramjani,0,6,0,0,0,out
+Uganda Vs New Zealand,Uganda,5,Kenneth Waiswa,11,18,2,0,61.11,out
+Uganda Vs New Zealand,Uganda,6,Riazat Ali Shah,2,13,0,0,15.38,out
+Uganda Vs New Zealand,Uganda,7,Dinesh Nakrani,4,13,0,0,30.76,out
+Uganda Vs New Zealand,Uganda,8,Brian Masaba,3,20,0,0,15,not out
+Uganda Vs New Zealand,Uganda,9,Fred Achelam,9,13,1,0,69.23,out
+Uganda Vs New Zealand,Uganda,10,Juma Miyagi,0,1,0,0,0,out
+Uganda Vs New Zealand,Uganda,11,Cosmas Kyewuta,1,6,0,0,16.66,out
+Uganda Vs New Zealand,New Zealand,1,Finn Allen,9,17,1,0,52.94,out
+Uganda Vs New Zealand,New Zealand,2,Devon Conway,22,15,4,0,146.66,not out
+Uganda Vs New Zealand,New Zealand,3,Rachin Ravindra,1,1,0,0,100,not out
+South Africa Vs Nepal,South Africa,1,Reeza Hendricks,43,49,5,1,87.75,out
+South Africa Vs Nepal,South Africa,2,Quinton de Kock,10,11,1,0,90.9,out
+South Africa Vs Nepal,South Africa,3,Aiden Markram,15,22,2,0,68.18,out
+South Africa Vs Nepal,South Africa,4,Heinrich Klaasen,3,5,0,0,60,out
+South Africa Vs Nepal,South Africa,5,David Miller,7,10,0,0,70,out
+South Africa Vs Nepal,South Africa,6,Tristan Stubbs,27,18,2,1,150,not out
+South Africa Vs Nepal,South Africa,7,Marco Jansen,1,4,0,0,25,out
+South Africa Vs Nepal,South Africa,8,Kagiso Rabada,0,1,0,0,0,out
+South Africa Vs Nepal,Nepal,1,Kushal Bhurtel,13,21,1,1,61.9,out
+South Africa Vs Nepal,Nepal,2,Aasif Sheikh,42,49,4,1,85.71,out
+South Africa Vs Nepal,Nepal,3,Rohit Paudel,0,2,0,0,0,out
+South Africa Vs Nepal,Nepal,4,Anil Sah,27,24,3,1,112.5,out
+South Africa Vs Nepal,Nepal,5,Dipendra Singh Airee,6,11,0,0,54.54,out
+South Africa Vs Nepal,Nepal,6,Kushal Malla,1,3,0,0,33.33,out
+South Africa Vs Nepal,Nepal,7,Gulsan Jha,6,6,1,0,100,out
+South Africa Vs Nepal,Nepal,8,Sompal Kami,8,4,0,1,200,not out
+Papua New Guinea Vs Afghanistan,Papua New Guinea,1,Tony Ura,11,18,1,0,61.11,out
+Papua New Guinea Vs Afghanistan,Papua New Guinea,2,Assad Vala,3,2,0,0,150,out
+Papua New Guinea Vs Afghanistan,Papua New Guinea,3,Lega Siaka,0,1,0,0,0,out
+Papua New Guinea Vs Afghanistan,Papua New Guinea,4,Sese Bau,0,1,0,0,0,out
+Papua New Guinea Vs Afghanistan,Papua New Guinea,5,Hiri Hiri,1,3,0,0,33.33,out
+Papua New Guinea Vs Afghanistan,Papua New Guinea,6,Chad Soper,9,26,0,0,34.61,out
+Papua New Guinea Vs Afghanistan,Papua New Guinea,7,Kiplin Doriga,27,32,2,0,84.37,out
+Papua New Guinea Vs Afghanistan,Papua New Guinea,8,Norman Vanua,0,7,0,0,0,out
+Papua New Guinea Vs Afghanistan,Papua New Guinea,9,Alei Nao,13,19,2,0,68.42,out
+Papua New Guinea Vs Afghanistan,Papua New Guinea,10,John Kariko,4,7,1,0,57.14,not out
+Papua New Guinea Vs Afghanistan,Papua New Guinea,11,Semo Kamea,2,3,0,0,66.66,out
+Papua New Guinea Vs Afghanistan,Afghanistan,1,Rahmanullah Gurbaz,11,7,1,1,157.14,out
+Papua New Guinea Vs Afghanistan,Afghanistan,2,Ibrahim Zadran,0,7,0,0,0,out
+Papua New Guinea Vs Afghanistan,Afghanistan,3,Gulbadin Naib,49,36,4,2,136.11,not out
+Papua New Guinea Vs Afghanistan,Afghanistan,4,Azmatullah Omarzai,13,18,1,0,72.22,out
+Papua New Guinea Vs Afghanistan,Afghanistan,5,Mohammad Nabi,16,23,1,0,69.56,not out
+Oman Vs England,Oman,1,Pratik Athavale,5,3,1,0,166.66,out
+Oman Vs England,Oman,2,Kashyap Prajapati,9,16,0,1,56.25,out
+Oman Vs England,Oman,3,Aqib Ilyas,8,10,1,0,80,out
+Oman Vs England,Oman,4,Zeeshan Maqsood,1,5,0,0,20,out
+Oman Vs England,Oman,5,Khalid Kail,1,3,0,0,33.33,out
+Oman Vs England,Oman,6,Ayaan Khan,1,5,0,0,20,out
+Oman Vs England,Oman,7,Shoaib Khan,11,23,1,0,47.82,out
+Oman Vs England,Oman,8,Mehran Khan,0,2,0,0,0,out
+Oman Vs England,Oman,9,Fayyaz Butt,2,7,0,0,28.57,out
+Oman Vs England,Oman,10,Kaleemullah,5,5,1,0,100,out
+Oman Vs England,Oman,11,Bilal Khan,0,1,0,0,0,not out
+Oman Vs England,England,1,Phil Salt,12,3,0,2,400,out
+Oman Vs England,England,2,Jos Buttler,24,8,4,1,300,not out
+Oman Vs England,England,3,Will Jacks,5,7,1,0,71.42,out
+Oman Vs England,England,4,Jonny Bairstow,8,2,2,0,400,not out
+Bangladesh Vs Netherlands,Bangladesh,1,Tanzid Hasan,35,26,5,1,134.61,out
+Bangladesh Vs Netherlands,Bangladesh,2,Najmul Hossain Shanto,1,3,0,0,33.33,out
+Bangladesh Vs Netherlands,Bangladesh,3,Litton Das,1,2,0,0,50,out
+Bangladesh Vs Netherlands,Bangladesh,4,Shakib Al Hasan,64,46,9,0,139.13,not out
+Bangladesh Vs Netherlands,Bangladesh,5,Towhid Hridoy,9,15,0,0,60,out
+Bangladesh Vs Netherlands,Bangladesh,6,Mahmudullah,25,21,2,2,119.04,out
+Bangladesh Vs Netherlands,Bangladesh,7,Jaker Ali,14,7,3,0,200,not out
+Bangladesh Vs Netherlands,Netherlands,1,Michael Levitt,18,16,2,1,112.5,out
+Bangladesh Vs Netherlands,Netherlands,2,Max O'Dowd,12,16,3,0,75,out
+Bangladesh Vs Netherlands,Netherlands,3,Vikramjit Singh,26,16,0,3,162.5,out
+Bangladesh Vs Netherlands,Netherlands,4,Sybrand Engelbrecht,33,22,3,1,150,out
+Bangladesh Vs Netherlands,Netherlands,5,Scott Edwards,25,23,3,0,108.69,out
+Bangladesh Vs Netherlands,Netherlands,6,Bas de Leede,0,2,0,0,0,out
+Bangladesh Vs Netherlands,Netherlands,7,Logan van Beek,2,3,0,0,66.66,out
+Bangladesh Vs Netherlands,Netherlands,8,Tim Pringle,1,10,0,0,10,out
+Bangladesh Vs Netherlands,Netherlands,9,Aryan Dutt,15,12,1,1,125,not out
+West Indies Vs New Zealand,West Indies,1,Brandon King,9,12,0,1,75,out
+West Indies Vs New Zealand,West Indies,2,Johnson Charles,0,5,0,0,0,out
+West Indies Vs New Zealand,West Indies,3,Nicholas Pooran,17,12,3,0,141.66,out
+West Indies Vs New Zealand,West Indies,4,Roston Chase,0,3,0,0,0,out
+West Indies Vs New Zealand,West Indies,5,Rovman Powell,1,5,0,0,20,out
+West Indies Vs New Zealand,West Indies,6,Sherfane Rutherford,68,39,2,6,174.35,not out
+West Indies Vs New Zealand,West Indies,7,Akeal Hosein,15,17,0,1,88.23,out
+West Indies Vs New Zealand,West Indies,8,Andre Russell,14,7,2,1,200,out
+West Indies Vs New Zealand,West Indies,9,Romario Shepherd,13,13,0,1,100,out
+West Indies Vs New Zealand,West Indies,10,Alzarri Joseph,6,6,1,0,100,out
+West Indies Vs New Zealand,West Indies,11,Gudakesh Motie,0,1,0,0,0,not out
+West Indies Vs New Zealand,New Zealand,1,Devon Conway,5,8,0,0,62.5,out
+West Indies Vs New Zealand,New Zealand,2,Finn Allen,26,23,3,1,113.04,out
+West Indies Vs New Zealand,New Zealand,3,Rachin Ravindra,10,13,0,0,76.92,out
+West Indies Vs New Zealand,New Zealand,4,Kane Williamson,1,2,0,0,50,out
+West Indies Vs New Zealand,New Zealand,5,Daryl Mitchell,12,13,1,0,92.3,out
+West Indies Vs New Zealand,New Zealand,6,Glenn Phillips,40,33,3,2,121.21,out
+West Indies Vs New Zealand,New Zealand,7,James Neesham,10,11,0,1,90.9,out
+West Indies Vs New Zealand,New Zealand,8,Mitchell Santner,21,12,0,3,175,not out
+West Indies Vs New Zealand,New Zealand,9,Tim Southee,0,1,0,0,0,out
+West Indies Vs New Zealand,New Zealand,10,Trent Boult,7,4,0,1,175,out
+West Indies Vs New Zealand,New Zealand,11,Lockie Ferguson,0,0,0,0,,not out
+United States of America Vs India,United States of America,1,Shayan Jahangir,0,1,0,0,0,out
+United States of America Vs India,United States of America,2,Steven Taylor,24,30,0,2,80,out
+United States of America Vs India,United States of America,3,Andries Gous,2,5,0,0,40,out
+United States of America Vs India,United States of America,4,Aaron Jones,11,22,0,1,50,out
+United States of America Vs India,United States of America,5,Nitish Kumar,27,23,2,1,117.39,out
+United States of America Vs India,United States of America,6,Corey Anderson,15,12,1,1,125,out
+United States of America Vs India,United States of America,7,Harmeet Singh,10,10,0,1,100,out
+United States of America Vs India,United States of America,8,Shadley van Schalkwyk,11,10,1,0,110,not out
+United States of America Vs India,United States of America,9,Jasdeep Singh,2,7,0,0,28.57,out
+United States of America Vs India,India,1,Rohit Sharma,3,6,0,0,50,out
+United States of America Vs India,India,2,Virat Kohli,0,1,0,0,0,out
+United States of America Vs India,India,3,Rishabh Pant,18,20,1,1,90,out
+United States of America Vs India,India,4,Suryakumar Yadav,50,49,2,2,102.04,not out
+United States of America Vs India,India,5,Shivam Dube,31,35,1,1,88.57,not out
+Namibia Vs Australia,Namibia,1,Michael van Lingen,10,10,2,0,100,out
+Namibia Vs Australia,Namibia,2,Nikolaas Davin,2,7,0,0,28.57,out
+Namibia Vs Australia,Namibia,3,Jan Frylinck,1,6,0,0,16.66,out
+Namibia Vs Australia,Namibia,4,Gerhard Erasmus,36,43,4,1,83.72,out
+Namibia Vs Australia,Namibia,5,JJ Smit,3,9,0,0,33.33,out
+Namibia Vs Australia,Namibia,6,Zane Green,1,4,0,0,25,out
+Namibia Vs Australia,Namibia,7,David Wiese,1,7,0,0,14.28,out
+Namibia Vs Australia,Namibia,8,Ruben Trumpelmann,7,7,0,1,100,out
+Namibia Vs Australia,Namibia,9,Bernard Scholtz,0,2,0,0,0,out
+Namibia Vs Australia,Namibia,10,Jack Brassell,2,3,0,0,66.66,not out
+Namibia Vs Australia,Namibia,11,Ben Shikongo,0,4,0,0,0,out
+Namibia Vs Australia,Australia,1,David Warner,20,8,3,1,250,out
+Namibia Vs Australia,Australia,2,Travis Head,34,17,5,2,200,not out
+Namibia Vs Australia,Australia,3,Mitchell Marsh,18,9,3,1,200,not out
+Canada Vs Pakistan,Canada,1,Aaron Johnson,52,44,4,4,118.18,out
+Canada Vs Pakistan,Canada,2,Navneet Dhaliwal,4,7,1,0,57.14,out
+Canada Vs Pakistan,Canada,3,Pargat Singh,2,6,0,0,33.33,out
+Canada Vs Pakistan,Canada,4,Nicholas Kirton,1,6,0,0,16.66,out
+Canada Vs Pakistan,Canada,5,Shreyas Movva,2,9,0,0,22.22,out
+Canada Vs Pakistan,Canada,6,Ravinderpal Singh,0,2,0,0,0,out
+Canada Vs Pakistan,Canada,7,Saad Bin Zafar,10,21,1,0,47.61,out
+Canada Vs Pakistan,Canada,8,Kaleem Sana,13,14,0,1,92.85,not out
+Canada Vs Pakistan,Canada,9,Dilon Heyliger,9,11,1,0,81.81,not out
+Canada Vs Pakistan,Pakistan,1,Mohammad Rizwan,53,53,2,1,100,not out
+Canada Vs Pakistan,Pakistan,2,Saim Ayub,6,12,0,0,50,out
+Canada Vs Pakistan,Pakistan,3,Babar Azam,33,33,1,1,100,out
+Canada Vs Pakistan,Pakistan,4,Fakhar Zaman,4,6,0,0,66.66,out
+Canada Vs Pakistan,Pakistan,5,Usman Khan,2,1,0,0,200,not out
+South Africa Vs Bangladesh,South Africa,1,Quinton de Kock,18,11,1,2,163.63,out
+South Africa Vs Bangladesh,South Africa,2,Reeza Hendricks,0,1,0,0,0,out
+South Africa Vs Bangladesh,South Africa,3,Aiden Markram,4,8,1,0,50,out
+South Africa Vs Bangladesh,South Africa,4,Tristan Stubbs,0,5,0,0,0,out
+South Africa Vs Bangladesh,South Africa,5,Heinrich Klaasen,46,44,2,3,104.54,out
+South Africa Vs Bangladesh,South Africa,6,David Miller,29,38,1,1,76.31,out
+South Africa Vs Bangladesh,South Africa,7,Marco Jansen,5,5,0,0,100,not out
+South Africa Vs Bangladesh,South Africa,8,Keshav Maharaj,4,8,0,0,50,not out
+South Africa Vs Bangladesh,Bangladesh,1,Tanzid Hasan,9,9,2,0,100,out
+South Africa Vs Bangladesh,Bangladesh,2,Najmul Hossain Shanto,14,23,0,1,60.86,out
+South Africa Vs Bangladesh,Bangladesh,3,Litton Das,9,13,1,0,69.23,out
+South Africa Vs Bangladesh,Bangladesh,4,Shakib Al Hasan,3,4,0,0,75,out
+South Africa Vs Bangladesh,Bangladesh,5,Towhid Hridoy,37,34,2,2,108.82,out
+South Africa Vs Bangladesh,Bangladesh,6,Mahmudullah,20,27,2,0,74.07,out
+South Africa Vs Bangladesh,Bangladesh,7,Jaker Ali,8,9,0,0,88.88,out
+South Africa Vs Bangladesh,Bangladesh,8,Rishad Hossain,0,1,0,0,0,not out
+South Africa Vs Bangladesh,Bangladesh,9,Taskin Ahmed,1,1,0,0,100,not out
+Oman Vs Scotland,Oman,1,Pratik Athavale,54,40,5,2,135,out
+Oman Vs Scotland,Oman,2,Naseem Khushi,10,9,0,1,111.11,out
+Oman Vs Scotland,Oman,3,Aqib Ilyas,16,6,2,1,266.66,out
+Oman Vs Scotland,Oman,4,Zeeshan Maqsood,3,4,0,0,75,out
+Oman Vs Scotland,Oman,5,Khalid Kail,5,7,0,0,71.42,out
+Oman Vs Scotland,Oman,6,Ayaan Khan,41,39,4,0,105.12,not out
+Oman Vs Scotland,Oman,7,Mehran Khan,13,10,2,0,130,out
+Oman Vs Scotland,Oman,8,Rafiullah,0,3,0,0,0,out
+Oman Vs Scotland,Oman,9,Shakeel Ahmed,3,2,0,0,150,not out
+Oman Vs Scotland,Scotland,1,George Munsey,41,20,2,4,205,out
+Oman Vs Scotland,Scotland,2,Michael Jones,16,13,1,2,123.07,out
+Oman Vs Scotland,Scotland,3,Brandon McMullen,61,31,9,2,196.77,not out
+Oman Vs Scotland,Scotland,4,Richie Berrington,13,7,1,1,185.71,out
+Oman Vs Scotland,Scotland,5,Matthew Cross,15,8,0,2,187.5,not out
+India Vs Pakistan,India,1,Rohit Sharma,13,12,1,1,108.33,out
+India Vs Pakistan,India,2,Virat Kohli,4,3,1,0,133.33,out
+India Vs Pakistan,India,3,Rishabh Pant,42,31,6,0,135.48,out
+India Vs Pakistan,India,4,Axar Patel,20,18,2,1,111.11,out
+India Vs Pakistan,India,5,Suryakumar Yadav,7,8,1,0,87.5,out
+India Vs Pakistan,India,6,Shivam Dube,3,9,0,0,33.33,out
+India Vs Pakistan,India,7,Hardik Pandya,7,12,1,0,58.33,out
+India Vs Pakistan,India,8,Ravindra Jadeja,0,1,0,0,0,out
+India Vs Pakistan,India,9,Arshdeep Singh,9,13,1,0,69.23,out
+India Vs Pakistan,India,10,Jasprit Bumrah,0,1,0,0,0,out
+India Vs Pakistan,India,11,Mohammed Siraj,7,7,0,0,100,not out
+India Vs Pakistan,Pakistan,1,Mohammad Rizwan,31,44,1,1,70.45,out
+India Vs Pakistan,Pakistan,2,Babar Azam,13,10,2,0,130,out
+India Vs Pakistan,Pakistan,3,Usman Khan,13,15,1,0,86.66,out
+India Vs Pakistan,Pakistan,4,Fakhar Zaman,13,8,1,1,162.5,out
+India Vs Pakistan,Pakistan,5,Imad Wasim,15,23,1,0,65.21,out
+India Vs Pakistan,Pakistan,6,Shadab Khan,4,7,0,0,57.14,out
+India Vs Pakistan,Pakistan,7,Iftikhar Ahmed,5,9,0,0,55.55,out
+India Vs Pakistan,Pakistan,8,Shaheen Shah Afridi,0,1,0,0,0,not out
+India Vs Pakistan,Pakistan,9,Naseem Shah,10,4,2,0,250,not out
+West Indies Vs Uganda,West Indies,1,Brandon King,13,8,2,0,162.5,out
+West Indies Vs Uganda,West Indies,2,Johnson Charles,44,42,4,2,104.76,out
+West Indies Vs Uganda,West Indies,3,Nicholas Pooran,22,17,0,3,129.41,out
+West Indies Vs Uganda,West Indies,4,Rovman Powell,23,18,1,1,127.77,out
+West Indies Vs Uganda,West Indies,5,Sherfane Rutherford,22,16,2,1,137.5,out
+West Indies Vs Uganda,West Indies,6,Andre Russell,30,17,6,0,176.47,not out
+West Indies Vs Uganda,West Indies,7,Romario Shepherd,5,5,0,0,100,not out
+West Indies Vs Uganda,Uganda,1,Roger Mukasa,0,2,0,0,0,out
+West Indies Vs Uganda,Uganda,2,Simon Ssesazi,4,3,1,0,133.33,out
+West Indies Vs Uganda,Uganda,3,Robinson Obuya,6,8,1,0,75,out
+West Indies Vs Uganda,Uganda,4,Alpesh Ramjani,5,6,1,0,83.33,out
+West Indies Vs Uganda,Uganda,5,Kenneth Waiswa,1,10,0,0,10,out
+West Indies Vs Uganda,Uganda,6,Riazat Ali Shah,3,8,0,0,37.5,out
+West Indies Vs Uganda,Uganda,7,Dinesh Nakrani,0,2,0,0,0,out
+West Indies Vs Uganda,Uganda,8,Brian Masaba,1,4,0,0,25,out
+West Indies Vs Uganda,Uganda,9,Juma Miyagi,13,20,0,0,65,not out
+West Indies Vs Uganda,Uganda,10,Cosmas Kyewuta,1,6,0,0,16.66,out
+West Indies Vs Uganda,Uganda,11,Frank Nsubuga,0,3,0,0,0,out
+Australia Vs England,Australia,1,Travis Head,34,18,2,3,188.88,out
+Australia Vs England,Australia,2,David Warner,39,16,2,4,243.75,out
+Australia Vs England,Australia,3,Mitchell Marsh,35,25,2,2,140,out
+Australia Vs England,Australia,4,Glenn Maxwell,28,25,3,1,112,out
+Australia Vs England,Australia,5,Marcus Stoinis,30,17,2,2,176.47,out
+Australia Vs England,Australia,6,Tim David,11,8,0,1,137.5,out
+Australia Vs England,Australia,7,Matthew Wade,17,10,3,0,170,not out
+Australia Vs England,Australia,8,Pat Cummins,0,1,0,0,0,out
+Australia Vs England,Australia,9,Mitchell Starc,0,0,0,0,,not out
+Australia Vs England,England,1,Phil Salt,37,23,4,2,160.86,out
+Australia Vs England,England,2,Jos Buttler,42,28,5,2,150,out
+Australia Vs England,England,3,Will Jacks,10,10,1,0,100,out
+Australia Vs England,England,4,Jonny Bairstow,7,13,0,0,53.84,out
+Australia Vs England,England,5,Moeen Ali,25,15,0,3,166.66,out
+Australia Vs England,England,6,Harry Brook,20,16,2,0,125,not out
+Australia Vs England,England,7,Liam Livingstone,15,12,0,1,125,out
+Australia Vs England,England,8,Chris Jordan,1,3,0,0,33.33,not out
+Netherlands Vs South Africa,Netherlands,1,Michael Levitt,0,3,0,0,0,out
+Netherlands Vs South Africa,Netherlands,2,Max O'Dowd,2,6,0,0,33.33,out
+Netherlands Vs South Africa,Netherlands,3,Vikramjit Singh,12,17,1,0,70.58,out
+Netherlands Vs South Africa,Netherlands,4,Sybrand Engelbrecht,40,45,2,1,88.88,out
+Netherlands Vs South Africa,Netherlands,5,Bas de Leede,6,16,0,0,37.5,out
+Netherlands Vs South Africa,Netherlands,6,Scott Edwards,10,9,0,1,111.11,out
+Netherlands Vs South Africa,Netherlands,7,Teja Nidamanuru,0,1,0,0,0,out
+Netherlands Vs South Africa,Netherlands,8,Logan van Beek,23,22,3,0,104.54,out
+Netherlands Vs South Africa,Netherlands,9,Tim Pringle,0,2,0,0,0,out
+Netherlands Vs South Africa,Netherlands,10,Paul van Meekeren,1,1,0,0,100,not out
+Netherlands Vs South Africa,South Africa,1,Reeza Hendricks,3,10,0,0,30,out
+Netherlands Vs South Africa,South Africa,2,Quinton de Kock,0,0,0,0,,out
+Netherlands Vs South Africa,South Africa,3,Aiden Markram,0,3,0,0,0,out
+Netherlands Vs South Africa,South Africa,4,Tristan Stubbs,33,37,1,1,89.18,out
+Netherlands Vs South Africa,South Africa,5,Heinrich Klaasen,4,7,0,0,57.14,out
+Netherlands Vs South Africa,South Africa,6,David Miller,59,51,3,4,115.68,not out
+Netherlands Vs South Africa,South Africa,7,Marco Jansen,3,5,0,0,60,out
+Netherlands Vs South Africa,South Africa,8,Keshav Maharaj,0,1,0,0,0,not out
+Sri Lanka Vs Bangladesh,Sri Lanka,1,Pathum Nissanka,47,28,7,1,167.85,out
+Sri Lanka Vs Bangladesh,Sri Lanka,2,Kusal Mendis,10,8,2,0,125,out
+Sri Lanka Vs Bangladesh,Sri Lanka,3,Kamindu Mendis,4,5,1,0,80,out
+Sri Lanka Vs Bangladesh,Sri Lanka,4,Dhananjaya de Silva,21,26,1,0,80.76,out
+Sri Lanka Vs Bangladesh,Sri Lanka,5,Charith Asalanka,19,21,0,1,90.47,out
+Sri Lanka Vs Bangladesh,Sri Lanka,6,Wanindu Hasaranga,0,1,0,0,0,out
+Sri Lanka Vs Bangladesh,Sri Lanka,7,Angelo Mathews,16,19,1,0,84.21,out
+Sri Lanka Vs Bangladesh,Sri Lanka,8,Dasun Shanaka,3,7,0,0,42.85,out
+Sri Lanka Vs Bangladesh,Sri Lanka,9,Maheesh Theekshana,0,3,0,0,0,out
+Sri Lanka Vs Bangladesh,Sri Lanka,10,Matheesha Pathirana,0,1,0,0,0,not out
+Sri Lanka Vs Bangladesh,Sri Lanka,11,Nuwan Thushara,0,1,0,0,0,not out
+Sri Lanka Vs Bangladesh,Bangladesh,1,Tanzid Hasan,3,6,0,0,50,out
+Sri Lanka Vs Bangladesh,Bangladesh,2,Soumya Sarkar,0,2,0,0,0,out
+Sri Lanka Vs Bangladesh,Bangladesh,3,Litton Das,36,38,2,1,94.73,out
+Sri Lanka Vs Bangladesh,Bangladesh,4,Najmul Hossain Shanto,7,13,0,0,53.84,out
+Sri Lanka Vs Bangladesh,Bangladesh,5,Towhid Hridoy,40,20,1,4,200,out
+Sri Lanka Vs Bangladesh,Bangladesh,6,Shakib Al Hasan,8,14,0,0,57.14,out
+Sri Lanka Vs Bangladesh,Bangladesh,7,Mahmudullah,16,13,0,1,123.07,not out
+Sri Lanka Vs Bangladesh,Bangladesh,8,Rishad Hossain,1,3,0,0,33.33,out
+Sri Lanka Vs Bangladesh,Bangladesh,9,Taskin Ahmed,0,1,0,0,0,out
+Sri Lanka Vs Bangladesh,Bangladesh,10,Tanzim Hasan Sakib,1,4,0,0,25,not out
+Afghanistan Vs New Zealand,Afghanistan,1,Rahmanullah Gurbaz,80,56,5,5,142.85,out
+Afghanistan Vs New Zealand,Afghanistan,2,Ibrahim Zadran,44,41,3,2,107.31,out
+Afghanistan Vs New Zealand,Afghanistan,3,Azmatullah Omarzai,22,13,1,2,169.23,out
+Afghanistan Vs New Zealand,Afghanistan,4,Mohammad Nabi,0,1,0,0,0,out
+Afghanistan Vs New Zealand,Afghanistan,5,Rashid Khan,6,5,1,0,120,out
+Afghanistan Vs New Zealand,Afghanistan,6,Karim Janat,1,1,0,0,100,not out
+Afghanistan Vs New Zealand,Afghanistan,7,Gulbadin Naib,0,2,0,0,0,out
+Afghanistan Vs New Zealand,Afghanistan,8,Najibullah Zadran,1,1,0,0,100,not out
+Afghanistan Vs New Zealand,New Zealand,1,Finn Allen,0,1,0,0,0,out
+Afghanistan Vs New Zealand,New Zealand,2,Devon Conway,8,10,1,0,80,out
+Afghanistan Vs New Zealand,New Zealand,3,Kane Williamson,9,13,1,0,69.23,out
+Afghanistan Vs New Zealand,New Zealand,4,Daryl Mitchell,5,5,1,0,100,out
+Afghanistan Vs New Zealand,New Zealand,5,Glenn Phillips,18,18,2,0,100,out
+Afghanistan Vs New Zealand,New Zealand,6,Mark Chapman,4,7,0,0,57.14,out
+Afghanistan Vs New Zealand,New Zealand,7,Michael Bracewell,0,1,0,0,0,out
+Afghanistan Vs New Zealand,New Zealand,8,Mitchell Santner,4,8,0,0,50,out
+Afghanistan Vs New Zealand,New Zealand,9,Matt Henry,12,17,0,1,70.58,out
+Afghanistan Vs New Zealand,New Zealand,10,Lockie Ferguson,2,5,0,0,40,out
+Afghanistan Vs New Zealand,New Zealand,11,Trent Boult,3,7,0,0,42.85,not out
+Canada Vs Ireland,Canada,1,Aaron Johnson,14,13,3,0,107.69,out
+Canada Vs Ireland,Canada,2,Navneet Dhaliwal,6,10,1,0,60,out
+Canada Vs Ireland,Canada,3,Pargat Singh,18,14,2,0,128.57,out
+Canada Vs Ireland,Canada,4,Dilpreet Bajwa,7,9,1,0,77.77,out
+Canada Vs Ireland,Canada,5,Nicholas Kirton,49,35,3,2,140,out
+Canada Vs Ireland,Canada,6,Shreyas Movva,37,36,3,0,102.77,out
+Canada Vs Ireland,Canada,7,Dilon Heyliger,0,2,0,0,0,out
+Canada Vs Ireland,Canada,8,Saad Bin Zafar,1,1,0,0,100,not out
+Canada Vs Ireland,Ireland,1,Andy Balbirnie,17,19,1,0,89.47,out
+Canada Vs Ireland,Ireland,2,Paul Stirling,9,17,1,0,52.94,out
+Canada Vs Ireland,Ireland,3,Lorcan Tucker,10,15,0,0,66.66,out
+Canada Vs Ireland,Ireland,4,Harry Tector,7,5,0,0,140,out
+Canada Vs Ireland,Ireland,5,Curtis Campher,4,7,0,0,57.14,out
+Canada Vs Ireland,Ireland,6,George Dockrell,30,23,2,1,130.43,not out
+Canada Vs Ireland,Ireland,7,Gareth Delany,3,7,0,0,42.85,out
+Canada Vs Ireland,Ireland,8,Mark Adair,34,24,3,1,141.66,out
+Canada Vs Ireland,Ireland,9,Barry McCarthy,2,3,0,0,66.66,not out
+Namibia Vs Scotland,Namibia,1,JP Kotze,0,3,0,0,0,out
+Namibia Vs Scotland,Namibia,2,Nikolaas Davin,20,12,4,0,166.66,out
+Namibia Vs Scotland,Namibia,3,Jan Frylinck,12,14,2,0,85.71,out
+Namibia Vs Scotland,Namibia,4,Gerhard Erasmus,52,31,5,2,167.74,out
+Namibia Vs Scotland,Namibia,5,Malan Kruger,2,8,0,0,25,out
+Namibia Vs Scotland,Namibia,6,Zane Green,28,27,1,1,103.7,out
+Namibia Vs Scotland,Namibia,7,David Wiese,14,13,0,1,107.69,out
+Namibia Vs Scotland,Namibia,8,Ruben Trumpelmann,1,2,0,0,50,out
+Namibia Vs Scotland,Namibia,9,JJ Smit,11,8,0,1,137.5,out
+Namibia Vs Scotland,Namibia,10,Bernard Scholtz,6,4,0,0,150,not out
+Namibia Vs Scotland,Namibia,11,Tangeni Lungameni,0,0,0,0,,not out
+Namibia Vs Scotland,Scotland,1,George Munsey,7,15,0,0,46.66,out
+Namibia Vs Scotland,Scotland,2,Michael Jones,26,20,3,1,130,out
+Namibia Vs Scotland,Scotland,3,Brandon McMullen,19,17,2,0,111.76,out
+Namibia Vs Scotland,Scotland,4,Richie Berrington,47,35,2,2,134.28,not out
+Namibia Vs Scotland,Scotland,5,Matthew Cross,3,5,0,0,60,out
+Namibia Vs Scotland,Scotland,6,Michael Leask,35,17,0,4,205.88,out
+Namibia Vs Scotland,Scotland,7,Chris Greaves,4,3,0,0,133.33,not out
+Pakistan Vs United States of America,Pakistan,1,Mohammad Rizwan,9,8,0,1,112.5,out
+Pakistan Vs United States of America,Pakistan,2,Babar Azam,44,43,3,2,102.32,out
+Pakistan Vs United States of America,Pakistan,3,Usman Khan,3,3,0,0,100,out
+Pakistan Vs United States of America,Pakistan,4,Fakhar Zaman,11,7,0,1,157.14,out
+Pakistan Vs United States of America,Pakistan,5,Shadab Khan,40,25,1,3,160,out
+Pakistan Vs United States of America,Pakistan,6,Azam Khan,0,1,0,0,0,out
+Pakistan Vs United States of America,Pakistan,7,Iftikhar Ahmed,18,14,3,0,128.57,out
+Pakistan Vs United States of America,Pakistan,8,Shaheen Shah Afridi,23,16,1,2,143.75,not out
+Pakistan Vs United States of America,Pakistan,9,Haris Rauf,3,3,0,0,100,not out
+Pakistan Vs United States of America,United States of America,1,Steven Taylor,12,16,1,0,75,out
+Pakistan Vs United States of America,United States of America,2,Monank Patel,50,38,7,1,131.57,out
+Pakistan Vs United States of America,United States of America,3,Andries Gous,35,26,5,1,134.61,out
+Pakistan Vs United States of America,United States of America,4,Aaron Jones,36,26,2,2,138.46,not out
+Pakistan Vs United States of America,United States of America,5,Nitish Kumar,14,14,1,0,100,not out
+Australia Vs Oman,Australia,1,David Warner,56,51,6,1,109.8,out
+Australia Vs Oman,Australia,2,Travis Head,12,10,2,0,120,out
+Australia Vs Oman,Australia,3,Mitchell Marsh,14,21,2,0,66.66,out
+Australia Vs Oman,Australia,4,Glenn Maxwell,0,1,0,0,0,out
+Australia Vs Oman,Australia,5,Marcus Stoinis,67,36,2,6,186.11,not out
+Australia Vs Oman,Australia,6,Tim David,9,4,2,0,225,out
+Australia Vs Oman,Oman,1,Kashyap Prajapati,7,16,1,0,43.75,out
+Australia Vs Oman,Oman,2,Pratik Athavale,0,1,0,0,0,out
+Australia Vs Oman,Oman,3,Aqib Ilyas,18,18,2,1,100,out
+Australia Vs Oman,Oman,4,Zeeshan Maqsood,1,7,0,0,14.28,out
+Australia Vs Oman,Oman,5,Khalid Kail,8,12,1,0,66.66,out
+Australia Vs Oman,Oman,6,Ayaan Khan,36,30,2,2,120,out
+Australia Vs Oman,Oman,7,Shoaib Khan,0,4,0,0,0,out
+Australia Vs Oman,Oman,8,Mehran Khan,27,16,1,2,168.75,out
+Australia Vs Oman,Oman,9,Shakeel Ahmed,11,10,1,0,110,out
+Australia Vs Oman,Oman,10,Kaleemullah,6,4,0,0,150,not out
+Australia Vs Oman,Oman,11,Bilal Khan,1,2,0,0,50,not out
+Papua New Guinea Vs Uganda,Papua New Guinea,1,Assad Vala,0,2,0,0,0,out
+Papua New Guinea Vs Uganda,Papua New Guinea,2,Tony Ura,2,6,0,0,33.33,out
+Papua New Guinea Vs Uganda,Papua New Guinea,3,Sese Bau,5,9,1,0,55.55,out
+Papua New Guinea Vs Uganda,Papua New Guinea,4,Lega Siaka,12,17,1,0,70.58,out
+Papua New Guinea Vs Uganda,Papua New Guinea,5,Hiri Hiri,15,19,2,0,78.94,out
+Papua New Guinea Vs Uganda,Papua New Guinea,6,Charles Amini,5,14,0,0,35.71,out
+Papua New Guinea Vs Uganda,Papua New Guinea,7,Kiplin Doriga,12,20,0,1,60,out
+Papua New Guinea Vs Uganda,Papua New Guinea,8,Chad Soper,4,11,0,0,36.36,out
+Papua New Guinea Vs Uganda,Papua New Guinea,9,Norman Vanua,5,10,0,0,50,out
+Papua New Guinea Vs Uganda,Papua New Guinea,10,Alei Nao,5,6,0,0,83.33,out
+Papua New Guinea Vs Uganda,Papua New Guinea,11,John Kariko,0,2,0,0,0,not out
+Papua New Guinea Vs Uganda,Uganda,1,Roger Mukasa,0,3,0,0,0,out
+Papua New Guinea Vs Uganda,Uganda,2,Simon Ssesazi,1,3,0,0,33.33,out
+Papua New Guinea Vs Uganda,Uganda,3,Robinson Obuya,1,2,0,0,50,out
+Papua New Guinea Vs Uganda,Uganda,4,Riazat Ali Shah,33,56,1,0,58.92,out
+Papua New Guinea Vs Uganda,Uganda,5,Alpesh Ramjani,8,10,1,0,80,out
+Papua New Guinea Vs Uganda,Uganda,6,Dinesh Nakrani,0,3,0,0,0,out
+Papua New Guinea Vs Uganda,Uganda,7,Juma Miyagi,13,16,0,0,81.25,out
+Papua New Guinea Vs Uganda,Uganda,8,Kenneth Waiswa,7,16,0,0,43.75,not out
+Papua New Guinea Vs Uganda,Uganda,9,Brian Masaba,0,1,0,0,0,not out
+Ireland Vs India,Ireland,1,Andy Balbirnie,5,10,1,0,50,out
+Ireland Vs India,Ireland,2,Paul Stirling,2,6,0,0,33.33,out
+Ireland Vs India,Ireland,3,Lorcan Tucker,10,13,2,0,76.92,out
+Ireland Vs India,Ireland,4,Harry Tector,4,16,0,0,25,out
+Ireland Vs India,Ireland,5,Curtis Campher,12,8,1,1,150,out
+Ireland Vs India,Ireland,6,George Dockrell,3,5,0,0,60,out
+Ireland Vs India,Ireland,7,Gareth Delany,26,14,2,2,185.71,out
+Ireland Vs India,Ireland,8,Mark Adair,3,2,0,0,150,out
+Ireland Vs India,Ireland,9,Barry McCarthy,0,6,0,0,0,out
+Ireland Vs India,Ireland,10,Josh Little,14,13,2,0,107.69,out
+Ireland Vs India,Ireland,11,Ben White,2,4,0,0,50,not out
+Ireland Vs India,India,1,Rohit Sharma,52,37,4,3,140.54,not out
+Ireland Vs India,India,2,Virat Kohli,1,5,0,0,20,out
+Ireland Vs India,India,3,Rishabh Pant,36,26,3,2,138.46,not out
+Ireland Vs India,India,4,Suryakumar Yadav,2,4,0,0,50,out
+Ireland Vs India,India,5,Shivam Dube,0,2,0,0,0,not out
+Nepal Vs Netherlands,Nepal,1,Kushal Bhurtel,7,10,1,0,70,out
+Nepal Vs Netherlands,Nepal,2,Aasif Sheikh,4,8,1,0,50,out
+Nepal Vs Netherlands,Nepal,3,Anil Sah,11,12,2,0,91.66,out
+Nepal Vs Netherlands,Nepal,4,Rohit Paudel,35,37,5,0,94.59,out
+Nepal Vs Netherlands,Nepal,5,Kushal Malla,9,9,1,0,100,out
+Nepal Vs Netherlands,Nepal,6,Dipendra Singh Airee,1,6,0,0,16.66,out
+Nepal Vs Netherlands,Nepal,7,Sompal Kami,0,5,0,0,0,out
+Nepal Vs Netherlands,Nepal,8,Gulsan Jha,14,15,0,1,93.33,out
+Nepal Vs Netherlands,Nepal,9,Karan KC,17,12,0,2,141.66,out
+Nepal Vs Netherlands,Nepal,10,Sagar Dhakal,0,1,0,0,0,not out
+Nepal Vs Netherlands,Nepal,11,Abinash Bohara,0,1,0,0,0,out
+Nepal Vs Netherlands,Netherlands,1,Michael Levitt,1,3,0,0,33.33,out
+Nepal Vs Netherlands,Netherlands,2,Max O'Dowd,54,48,4,1,112.5,not out
+Nepal Vs Netherlands,Netherlands,3,Vikramjit Singh,22,28,4,0,78.57,out
+Nepal Vs Netherlands,Netherlands,4,Sybrand Engelbrecht,14,16,1,0,87.5,out
+Nepal Vs Netherlands,Netherlands,5,Scott Edwards,5,8,0,0,62.5,out
+Nepal Vs Netherlands,Netherlands,6,Bas de Leede,11,10,1,0,110,not out
+Afghanistan Vs Uganda,Afghanistan,1,Rahmanullah Gurbaz,76,45,4,4,168.88,out
+Afghanistan Vs Uganda,Afghanistan,2,Ibrahim Zadran,70,46,9,1,152.17,out
+Afghanistan Vs Uganda,Afghanistan,3,Najibullah Zadran,2,3,0,0,66.66,out
+Afghanistan Vs Uganda,Afghanistan,4,Mohammad Nabi,14,16,0,0,87.5,not out
+Afghanistan Vs Uganda,Afghanistan,5,Gulbadin Naib,4,5,0,0,80,out
+Afghanistan Vs Uganda,Afghanistan,6,Azmatullah Omarzai,5,5,0,0,100,out
+Afghanistan Vs Uganda,Afghanistan,7,Rashid Khan,2,1,0,0,200,not out
+Afghanistan Vs Uganda,Uganda,1,Ronak Patel,4,2,1,0,200,out
+Afghanistan Vs Uganda,Uganda,2,Simon Ssesazi,4,4,1,0,100,out
+Afghanistan Vs Uganda,Uganda,3,Roger Mukasa,0,1,0,0,0,out
+Afghanistan Vs Uganda,Uganda,4,Riazat Ali Shah,11,34,0,0,32.35,out
+Afghanistan Vs Uganda,Uganda,5,Dinesh Nakrani,6,8,1,0,75,out
+Afghanistan Vs Uganda,Uganda,6,Alpesh Ramjani,0,2,0,0,0,out
+Afghanistan Vs Uganda,Uganda,7,Robinson Obuya,14,25,0,1,56,out
+Afghanistan Vs Uganda,Uganda,8,Brian Masaba,0,1,0,0,0,out
+Afghanistan Vs Uganda,Uganda,9,Bilal Hassan,8,16,1,0,50,out
+Afghanistan Vs Uganda,Uganda,10,Cosmas Kyewuta,2,2,0,0,100,not out
+Afghanistan Vs Uganda,Uganda,11,Henry Ssenyondo,0,1,0,0,0,out
+Sri Lanka Vs South Africa,Sri Lanka,1,Pathum Nissanka,3,8,0,0,37.5,out
+Sri Lanka Vs South Africa,Sri Lanka,2,Kusal Mendis,19,30,1,0,63.33,out
+Sri Lanka Vs South Africa,Sri Lanka,3,Kamindu Mendis,11,15,1,0,73.33,out
+Sri Lanka Vs South Africa,Sri Lanka,4,Wanindu Hasaranga,0,2,0,0,0,out
+Sri Lanka Vs South Africa,Sri Lanka,5,Sadeera Samarawickrama,0,1,0,0,0,out
+Sri Lanka Vs South Africa,Sri Lanka,6,Charith Asalanka,6,9,0,0,66.66,out
+Sri Lanka Vs South Africa,Sri Lanka,7,Angelo Mathews,16,16,0,2,100,out
+Sri Lanka Vs South Africa,Sri Lanka,8,Dasun Shanaka,9,10,0,1,90,out
+Sri Lanka Vs South Africa,Sri Lanka,9,Maheesh Theekshana,7,16,1,0,43.75,not out
+Sri Lanka Vs South Africa,Sri Lanka,10,Matheesha Pathirana,0,4,0,0,0,out
+Sri Lanka Vs South Africa,Sri Lanka,11,Nuwan Thushara,0,4,0,0,0,out
+Sri Lanka Vs South Africa,South Africa,1,Quinton de Kock,20,27,0,1,74.07,out
+Sri Lanka Vs South Africa,South Africa,2,Reeza Hendricks,4,2,1,0,200,out
+Sri Lanka Vs South Africa,South Africa,3,Aiden Markram,12,14,0,1,85.71,out
+Sri Lanka Vs South Africa,South Africa,4,Tristan Stubbs,13,28,0,0,46.42,out
+Sri Lanka Vs South Africa,South Africa,5,Heinrich Klaasen,19,22,1,1,86.36,not out
+Sri Lanka Vs South Africa,South Africa,6,David Miller,6,6,1,0,100,not out
+Oman Vs Namibia,Oman,1,Kashyap Prajapati,0,1,0,0,0,out
+Oman Vs Namibia,Oman,2,Naseem Khushi,6,6,1,0,100,out
+Oman Vs Namibia,Oman,3,Aqib Ilyas,0,1,0,0,0,out
+Oman Vs Namibia,Oman,4,Zeeshan Maqsood,22,20,4,0,110,out
+Oman Vs Namibia,Oman,5,Khalid Kail,34,39,1,1,87.17,out
+Oman Vs Namibia,Oman,6,Ayaan Khan,15,21,0,1,71.42,out
+Oman Vs Namibia,Oman,7,Mohammad Nadeem,6,10,0,0,60,out
+Oman Vs Namibia,Oman,8,Mehran Khan,7,8,1,0,87.5,out
+Oman Vs Namibia,Oman,9,Shakeel Ahmed,11,9,2,0,122.22,out
+Oman Vs Namibia,Oman,10,Kaleemullah,2,3,0,0,66.66,out
+Oman Vs Namibia,Oman,11,Bilal Khan,1,1,0,0,100,not out
+Oman Vs Namibia,Namibia,1,Michael van Lingen,0,2,0,0,0,out
+Oman Vs Namibia,Namibia,2,Nikolaas Davin,24,31,2,1,77.41,out
+Oman Vs Namibia,Namibia,3,Jan Frylinck,45,48,6,0,93.75,out
+Oman Vs Namibia,Namibia,4,Gerhard Erasmus,13,16,1,0,81.25,out
+Oman Vs Namibia,Namibia,5,JJ Smit,8,12,1,0,66.66,out
+Oman Vs Namibia,Namibia,6,David Wiese,9,8,0,1,112.5,not out
+Oman Vs Namibia,Namibia,7,Zane Green,0,2,0,0,0,out
+Oman Vs Namibia,Namibia,8,Malan Kruger,1,1,0,0,100,not out
+Papua New Guinea Vs West Indies,Papua New Guinea,1,Tony Ura,2,5,0,0,40,out
+Papua New Guinea Vs West Indies,Papua New Guinea,2,Assad Vala,21,22,2,1,95.45,out
+Papua New Guinea Vs West Indies,Papua New Guinea,3,Lega Siaka,1,2,0,0,50,out
+Papua New Guinea Vs West Indies,Papua New Guinea,4,Sese Bau,50,43,6,1,116.27,out
+Papua New Guinea Vs West Indies,Papua New Guinea,5,Hiri Hiri,2,6,0,0,33.33,out
+Papua New Guinea Vs West Indies,Papua New Guinea,6,Charles Amini,12,14,0,0,85.71,out
+Papua New Guinea Vs West Indies,Papua New Guinea,7,Kiplin Doriga,27,18,3,0,150,not out
+Papua New Guinea Vs West Indies,Papua New Guinea,8,Chad Soper,10,9,1,0,111.11,out
+Papua New Guinea Vs West Indies,Papua New Guinea,9,Alei Nao,0,0,0,0,,out
+Papua New Guinea Vs West Indies,Papua New Guinea,10,Kabua Morea,2,2,0,0,100,not out
+Papua New Guinea Vs West Indies,West Indies,1,Brandon King,34,29,7,0,117.24,out
+Papua New Guinea Vs West Indies,West Indies,2,Johnson Charles,0,1,0,0,0,out
+Papua New Guinea Vs West Indies,West Indies,3,Nicholas Pooran,27,27,1,2,100,out
+Papua New Guinea Vs West Indies,West Indies,4,Roston Chase,42,27,4,2,155.55,not out
+Papua New Guinea Vs West Indies,West Indies,5,Rovman Powell,15,14,2,0,107.14,out
+Papua New Guinea Vs West Indies,West Indies,6,Sherfane Rutherford,2,7,0,0,28.57,out
+Papua New Guinea Vs West Indies,West Indies,7,Andre Russell,15,9,0,1,166.66,not out
+Canada Vs United States of America,Canada,1,Aaron Johnson,23,16,5,0,143.75,out
+Canada Vs United States of America,Canada,2,Navneet Dhaliwal,61,44,6,3,138.63,out
+Canada Vs United States of America,Canada,3,Pargat Singh,5,7,0,0,71.42,out
+Canada Vs United States of America,Canada,4,Nicholas Kirton,51,31,3,2,164.51,out
+Canada Vs United States of America,Canada,5,Shreyas Movva,32,16,2,2,200,not out
+Canada Vs United States of America,Canada,6,Dilpreet Bajwa,11,5,1,1,220,out
+Canada Vs United States of America,Canada,7,Dilon Heyliger,1,1,0,0,100,not out
+Canada Vs United States of America,United States of America,1,Steven Taylor,0,2,0,0,0,out
+Canada Vs United States of America,United States of America,2,Monank Patel,16,16,2,0,100,out
+Canada Vs United States of America,United States of America,3,Andries Gous,65,46,7,3,141.3,out
+Canada Vs United States of America,United States of America,4,Aaron Jones,94,40,4,10,235,not out
+Canada Vs United States of America,United States of America,5,Corey Anderson,3,5,0,0,60,not out
+Scotland Vs England,Scotland,1,George Munsey,41,31,4,2,132.25,not out
+Scotland Vs England,Scotland,2,Michael Jones,45,30,4,2,150,not out
